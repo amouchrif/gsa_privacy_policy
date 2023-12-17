@@ -1,0 +1,41 @@
+/* Basic CSS styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #f0f0f0;
+    padding: 20px 20px;
+  }
+  
+  header h1 {
+    width: 100%;
+    margin: 0;
+    font-size: 2em;
+    /* background-color: #3498db; Change this to your desired color */
+    color: #3498DB; /* Text color for better readability on the background */
+    /* padding: 10px; Adjust padding to fit the text nicely */
+    display: inline; /* Ensures the background size fits the text */
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
+  footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+  }
+  
